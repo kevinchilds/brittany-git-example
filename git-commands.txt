@@ -1,0 +1,12 @@
+git init  <---- initialzes a project to be version controlled by git
+git add file_name  <----- adds file_name to staging
+git commit -m "message goes here" <---- creates an official local commit
+
+
+
+
+
+steps to make changes to local codebase and update it in the remote repository:
+1. add the changes to staging    (git add file_name)
+2. make an official local commit (git commit -m "message")
+3. push local commit to remote origin (git push)
