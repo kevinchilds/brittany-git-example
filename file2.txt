@@ -3,5 +3,4 @@ This is file 2
 Marks changes
 
 
-
 Marks second change to file 2
